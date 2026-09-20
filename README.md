@@ -1,10 +1,31 @@
+
 # れーめん空域
 
 Blueskyへのテキスト投稿に特化した、軽量Androidクライアントです。
 
 ## インストール
 
-### Obtainiumを使う方法
+れーめん空域は、Android向けアプリ更新ツール
+[Obtainium](https://github.com/ImranR98/Obtainium)
+を使ってインストール・更新できます。
+
+### 1. Obtainiumをインストールする
+
+Obtainiumをまだインストールしていない場合は、
+公式GitHub Releasesから最新版をダウンロードしてください。
+
+[Obtainium公式Releases](https://github.com/ImranR98/Obtainium/releases/latest)
+
+一般的な64bit Android端末では、
+`app-arm64-v8a-release.apk`
+を使用できます。
+
+APKを開いた際にAndroidから
+「この提供元のアプリをインストールする許可」
+を求められた場合は、使用しているブラウザまたはファイルアプリに
+一時的にインストールを許可してください。
+
+### 2. れーめん空域をObtainiumに追加する
 
 Obtainiumをインストール済みの場合は、以下から追加できます。
 
@@ -14,3 +35,5 @@ Obtainiumをインストール済みの場合は、以下から追加できま�
 
 ```text
 https://github.com/sophizm/reimen-airspace-releases
+
+
